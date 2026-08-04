@@ -1,0 +1,54 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Token-length audit outputs
+embeddings/token_length_audits/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# VS Code and IDE settings
+.vscode/
+.idea/
+
+# Private or large datasets
+data/raw/
+data/processed/
+data/private/
+*.parquet
+*.arrow
+
+# Generated embedding matrices and vector indexes
+*.npy
+*.npz
+*.faiss
+*.index
+
+# Downloaded models and checkpoints
+models/
+checkpoints/
+*.safetensors
+*.pt
+*.pth
+*.ckpt
+*.bin
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Logs and generated cache
+logs/
+cache/
+
+# Windows and operating-system files
+Thumbs.db
+Desktop.ini
+.DS_Store
