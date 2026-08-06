@@ -1,0 +1,11 @@
+# Use the ROCm-enabled PyTorch supplied by the LUMI AI/container environment.
+# Do not install a generic CUDA wheel of torch on LUMI.
+transformers>=4.55.4,<6
+accelerate>=1.0
+huggingface_hub>=0.30
+safetensors>=0.5
+sentencepiece>=0.2
+pandas>=2.0
+pyarrow>=15
+numpy>=1.26
+tqdm>=4.66
