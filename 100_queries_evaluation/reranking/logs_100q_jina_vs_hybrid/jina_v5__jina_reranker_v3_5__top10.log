@@ -1,0 +1,50 @@
+2026-10-18 17:31:39,574 | INFO | Experiment 1/2
+2026-10-18 17:31:39,575 | INFO | Retriever: jina_v5
+2026-10-18 17:31:39,575 | INFO | Reranker: jinaai/jina-reranker-v3.5
+2026-10-18 17:31:39,576 | INFO | Device: cuda | Dtype: torch.bfloat16
+2026-10-18 17:31:39,576 | INFO | Candidate pool: 20 | Rerank depth: 10
+2026-10-18 17:31:39,584 | INFO | Query 'Q001': reranking Top-10
+2026-10-18 17:31:44,202 | INFO | Query 'Q002': reranking Top-10
+2026-10-18 17:31:47,198 | INFO | Query 'Q003': reranking Top-10
+2026-10-18 17:31:49,981 | INFO | Query 'Q004': reranking Top-10
+2026-10-18 17:31:55,785 | INFO | Query 'Q005': reranking Top-10
+2026-10-18 17:31:58,529 | INFO | Query 'Q006': reranking Top-10
+2026-10-18 17:32:02,717 | INFO | Query 'Q007': reranking Top-10
+2026-10-18 17:32:05,455 | INFO | Query 'Q008': reranking Top-10
+2026-10-18 17:32:07,214 | INFO | Query 'Q009': reranking Top-10
+2026-10-18 17:32:09,346 | INFO | Query 'Q010': reranking Top-10
+2026-10-18 17:32:11,733 | INFO | Query 'Q011': reranking Top-10
+2026-10-18 17:32:13,138 | INFO | Query 'Q012': reranking Top-10
+2026-10-18 17:32:15,262 | INFO | Query 'Q013': reranking Top-10
+2026-10-18 17:32:17,865 | INFO | Query 'Q014': reranking Top-10
+2026-10-18 17:32:20,140 | INFO | Query 'Q015': reranking Top-10
+2026-10-18 17:32:21,963 | INFO | Query 'Q016': reranking Top-10
+2026-10-18 17:32:23,227 | INFO | Query 'Q017': reranking Top-10
+2026-10-18 17:32:25,119 | INFO | Query 'Q018': reranking Top-10
+2026-10-18 17:32:27,872 | INFO | Query 'Q019': reranking Top-10
+2026-10-18 17:32:30,575 | INFO | Query 'Q020': reranking Top-10
+2026-10-18 17:32:31,666 | INFO | Query 'Q021': reranking Top-10
+2026-10-18 17:32:33,604 | INFO | Query 'Q022': reranking Top-10
+2026-10-18 17:32:36,062 | INFO | Query 'Q023': reranking Top-10
+2026-10-18 17:32:37,195 | INFO | Query 'Q024': reranking Top-10
+2026-10-18 17:32:39,246 | INFO | Query 'Q025': reranking Top-10
+2026-10-18 17:32:40,973 | INFO | Query 'Q026': reranking Top-10
+2026-10-18 17:32:43,621 | INFO | Query 'Q027': reranking Top-10
+2026-10-18 17:33:17,350 | INFO | Query 'Q028': reranking Top-10
+2026-10-18 17:33:21,946 | INFO | Query 'Q029': reranking Top-10
+2026-10-18 17:33:23,320 | INFO | Query 'Q030': reranking Top-10
+2026-10-18 17:33:26,204 | INFO | Query 'Q031': reranking Top-10
+2026-10-18 17:33:28,115 | INFO | Query 'Q032': reranking Top-10
+2026-10-18 17:33:30,499 | INFO | Query 'Q033': reranking Top-10
+2026-10-18 17:33:33,255 | INFO | Query 'Q034': reranking Top-10
+2026-10-18 17:33:35,639 | INFO | Query 'Q035': reranking Top-10
+2026-10-18 17:33:38,239 | INFO | Query 'Q036': reranking Top-10
+2026-10-18 17:33:39,477 | INFO | Query 'Q037': reranking Top-10
+2026-10-18 17:33:41,447 | INFO | Query 'Q038': reranking Top-10
+2026-10-18 17:33:43,182 | INFO | Query 'Q039': reranking Top-10
+2026-10-18 17:34:23,283 | INFO | Query 'Q040': reranking Top-10
+2026-10-18 17:34:28,400 | INFO | Query 'Q041': reranking Top-10
+2026-10-18 17:34:31,340 | INFO | Query 'Q042': reranking Top-10
+2026-10-18 17:34:34,053 | INFO | Query 'Q043': reranking Top-10
+2026-10-18 17:34:38,767 | INFO | Query 'Q044': reranking Top-10
+2026-10-18 17:34:40,567 | INFO | Query 'Q045': reranking Top-10

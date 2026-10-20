@@ -1,0 +1,10 @@
+2026-10-18 18:26:57,704 | INFO | Experiment 1/2
+2026-10-18 18:26:57,704 | INFO | Retriever: jina_v5
+2026-10-18 18:26:57,705 | INFO | Reranker: lightonai/GTE-ModernColBERT-v1
+2026-10-18 18:26:57,705 | INFO | Device: cuda
+2026-10-18 18:26:57,705 | INFO | Top K: 20 | Query length: 128 | Document length: 2048 | Query batch size: 8 | Document batch size: 1
+2026-10-18 18:29:19,574 | INFO | Reranked rows: 2000 | Queries: 100
+2026-10-18 18:29:20,127 | INFO | Markdown report: C:\Users\Panagiotis\Documents\100_queries_evaluation\reranking\outputs_100q_jina_vs_hybrid\gte_moderncolbert_v1\jina_v5__gte_moderncolbert_v1_results.md
+2026-10-18 18:29:20,131 | INFO | Detailed output: C:\Users\Panagiotis\Documents\100_queries_evaluation\reranking\outputs_100q_jina_vs_hybrid\gte_moderncolbert_v1\jina_v5__gte_moderncolbert_v1_detailed.csv
+2026-10-18 18:29:20,131 | INFO | Evaluation output: C:\Users\Panagiotis\Documents\100_queries_evaluation\reranking\outputs_100q_jina_vs_hybrid\gte_moderncolbert_v1\jina_v5__gte_moderncolbert_v1_rankings.csv
+2026-10-18 18:29:20,131 | INFO | Completed successfully in 142.43 seconds.

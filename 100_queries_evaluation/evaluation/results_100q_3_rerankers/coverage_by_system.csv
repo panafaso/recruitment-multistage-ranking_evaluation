@@ -1,0 +1,9 @@
+﻿system,queries,rows,judged_rows,unjudged_rows,coverage_percent
+Hybrid-BM25-Jina,100,2000,2000,0,100.0
+Hybrid-BM25-Jina + BGE-reranker-v2-m3,100,2000,2000,0,100.0
+Hybrid-BM25-Jina + GTE-ModernColBERT-v1,100,2000,2000,0,100.0
+Hybrid-BM25-Jina + Llama-Nemotron-1B-v2,100,2000,2000,0,100.0
+Jina-v5,100,2000,2000,0,100.0
+Jina-v5 + BGE-reranker-v2-m3,100,2000,2000,0,100.0
+Jina-v5 + GTE-ModernColBERT-v1,100,2000,2000,0,100.0
+Jina-v5 + Llama-Nemotron-1B-v2,100,2000,2000,0,100.0

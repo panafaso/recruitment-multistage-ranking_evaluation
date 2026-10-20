@@ -1,0 +1,22 @@
+2026-10-18 13:21:56,586 | INFO | Experiment 1/2
+2026-10-18 13:21:56,588 | INFO | Retriever: jina_v5
+2026-10-18 13:21:56,588 | INFO | Reranker: jinaai/jina-reranker-v3.5
+2026-10-18 13:21:56,588 | INFO | Device: cuda | Dtype: torch.bfloat16
+2026-10-18 13:21:56,589 | INFO | Candidate pool: 20 | Rerank depth: 20
+2026-10-18 13:21:56,600 | INFO | Query 'Q001': reranking Top-20
+2026-10-18 16:42:51,072 | INFO | Experiment 1/2
+2026-10-18 16:42:51,074 | INFO | Retriever: jina_v5
+2026-10-18 16:42:51,075 | INFO | Reranker: jinaai/jina-reranker-v3.5
+2026-10-18 16:42:51,075 | INFO | Device: cuda | Dtype: torch.bfloat16
+2026-10-18 16:42:51,078 | INFO | Candidate pool: 20 | Rerank depth: 20
+2026-10-18 16:42:51,088 | INFO | Query 'Q001': reranking Top-20
+2026-10-18 17:21:06,089 | INFO | Experiment 1/2
+2026-10-18 17:21:06,090 | INFO | Retriever: jina_v5
+2026-10-18 17:21:06,091 | INFO | Reranker: jinaai/jina-reranker-v3.5
+2026-10-18 17:21:06,091 | INFO | Device: cpu | Dtype: torch.float32
+2026-10-18 17:21:06,092 | INFO | Candidate pool: 20 | Rerank depth: 20
+2026-10-18 17:21:06,102 | INFO | Query 'Q001': reranking Top-20
+2026-10-18 17:22:12,221 | INFO | Query 'Q002': reranking Top-20
+2026-10-18 17:24:28,793 | INFO | Query 'Q003': reranking Top-20
+2026-10-18 17:26:24,995 | INFO | Query 'Q004': reranking Top-20
+2026-10-18 17:27:48,147 | INFO | Query 'Q005': reranking Top-20

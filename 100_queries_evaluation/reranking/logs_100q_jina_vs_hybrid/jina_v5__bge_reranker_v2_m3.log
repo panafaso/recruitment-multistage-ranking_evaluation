@@ -1,0 +1,10 @@
+2026-10-18 13:12:30,573 | INFO | Experiment 1/2
+2026-10-18 13:12:30,574 | INFO | Retriever: jina_v5
+2026-10-18 13:12:30,574 | INFO | Reranker: BAAI/bge-reranker-v2-m3
+2026-10-18 13:12:30,574 | INFO | Device: cuda
+2026-10-18 13:12:30,574 | INFO | Top K: 20 | Batch size: 2 | Maximum pair length: 2048
+2026-10-18 13:13:20,204 | INFO | Reranked rows: 2000 | Queries: 100
+2026-10-18 13:13:20,424 | INFO | Markdown report: C:\Users\Panagiotis\Documents\100_queries_evaluation\reranking\outputs_100q_jina_vs_hybrid\bge_reranker_v2_m3\jina_v5__bge_reranker_v2_m3_results.md
+2026-10-18 13:13:20,427 | INFO | Detailed output: C:\Users\Panagiotis\Documents\100_queries_evaluation\reranking\outputs_100q_jina_vs_hybrid\bge_reranker_v2_m3\jina_v5__bge_reranker_v2_m3_detailed.csv
+2026-10-18 13:13:20,427 | INFO | Evaluation output: C:\Users\Panagiotis\Documents\100_queries_evaluation\reranking\outputs_100q_jina_vs_hybrid\bge_reranker_v2_m3\jina_v5__bge_reranker_v2_m3_rankings.csv
+2026-10-18 13:13:20,427 | INFO | Completed successfully in 49.85 seconds.

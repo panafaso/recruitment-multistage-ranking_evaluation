@@ -1,0 +1,5 @@
+﻿system,queries,rows,judged_rows,unjudged_rows
+Hybrid + Ministral,100,2000,2000,0
+Jina + Ministral,100,2000,2000,0
+Hybrid + Phi-4-mini,100,2000,2000,0
+Jina + Phi-4-mini,100,2000,2000,0

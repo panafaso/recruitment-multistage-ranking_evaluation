@@ -1,0 +1,10 @@
+2026-10-18 18:06:53,805 | INFO | Experiment 1/2
+2026-10-18 18:06:53,807 | INFO | Retriever: jina_v5
+2026-10-18 18:06:53,807 | INFO | Reranker: nvidia/llama-nemotron-rerank-1b-v2
+2026-10-18 18:06:53,808 | INFO | Device: cuda:0 | Dtype: torch.bfloat16
+2026-10-18 18:06:53,814 | INFO | Top K: 20 | Batch size: 1 | Maximum input length: 8192
+2026-10-18 18:09:01,187 | INFO | Reranked rows: 2000 | Queries: 100
+2026-10-18 18:09:01,769 | INFO | Markdown report: C:\Users\Panagiotis\Documents\100_queries_evaluation\reranking\outputs_100q_jina_vs_hybrid\llama_nemotron_rerank_1b_v2\jina_v5__llama_nemotron_rerank_1b_v2_results.md
+2026-10-18 18:09:01,782 | INFO | Detailed output: C:\Users\Panagiotis\Documents\100_queries_evaluation\reranking\outputs_100q_jina_vs_hybrid\llama_nemotron_rerank_1b_v2\jina_v5__llama_nemotron_rerank_1b_v2_detailed.csv
+2026-10-18 18:09:01,783 | INFO | Evaluation output: C:\Users\Panagiotis\Documents\100_queries_evaluation\reranking\outputs_100q_jina_vs_hybrid\llama_nemotron_rerank_1b_v2\jina_v5__llama_nemotron_rerank_1b_v2_rankings.csv
+2026-10-18 18:09:01,783 | INFO | Completed successfully in 127.96 seconds.

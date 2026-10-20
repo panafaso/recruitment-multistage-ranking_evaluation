@@ -1,0 +1,502 @@
+[
+  {
+    "query_id": "Q001",
+    "category": "Corporate / Technology / Business",
+    "query": "Senior financial analysts with 5+ years of experience in financial modelling, budgeting, forecasting, management reporting and financial performance analysis."
+  },
+  {
+    "query_id": "Q002",
+    "category": "Corporate / Technology / Business",
+    "query": "Human resources managers with experience in employee relations, recruitment strategy, performance management, labour law compliance and workforce planning."
+  },
+  {
+    "query_id": "Q003",
+    "category": "Corporate / Technology / Business",
+    "query": "Corporate legal counsels with experience in commercial contracts, corporate governance, regulatory compliance, legal risk assessment and contract negotiations."
+  },
+  {
+    "query_id": "Q004",
+    "category": "Corporate / Technology / Business",
+    "query": "Data protection specialists with experience in GDPR compliance, DPIAs, records of processing activities, data breach management and privacy policies."
+  },
+  {
+    "query_id": "Q005",
+    "category": "Corporate / Technology / Business",
+    "query": "Business development managers with experience in B2B sales, international partnerships, commercial negotiations, market expansion and client acquisition."
+  },
+  {
+    "query_id": "Q006",
+    "category": "Corporate / Technology / Business",
+    "query": "Marketing managers with experience in digital advertising, brand positioning, campaign management, marketing analytics and cross-functional coordination."
+  },
+  {
+    "query_id": "Q007",
+    "category": "Corporate / Technology / Business",
+    "query": "IT project managers with experience in Agile methodologies, Scrum, Jira, project budgeting, stakeholder management and software delivery."
+  },
+  {
+    "query_id": "Q008",
+    "category": "Corporate / Technology / Business",
+    "query": "Accountants with experience in IFRS, financial statement preparation, tax reporting, general ledger reconciliation and accounting software."
+  },
+  {
+    "query_id": "Q009",
+    "category": "Corporate / Technology / Business",
+    "query": "Cybersecurity analysts with experience in SIEM monitoring, incident response, threat intelligence, vulnerability assessments and security operations."
+  },
+  {
+    "query_id": "Q010",
+    "category": "Corporate / Technology / Business",
+    "query": "Procurement specialists with experience in supplier evaluation, contract management, purchasing procedures, tender preparation and cost optimisation."
+  },
+  {
+    "query_id": "Q011",
+    "category": "Corporate / Technology / Business",
+    "query": "Customer success managers with 3–5 years of experience in B2B SaaS, client onboarding, account retention, customer relationship management and service improvement."
+  },
+  {
+    "query_id": "Q012",
+    "category": "Corporate / Technology / Business",
+    "query": "Business intelligence analysts with experience in SQL, Power BI, dashboard development, data modelling and business performance reporting."
+  },
+  {
+    "query_id": "Q013",
+    "category": "Corporate / Technology / Business",
+    "query": "Compliance officers with experience in AML, KYC, regulatory monitoring, internal controls, compliance investigations and risk reporting."
+  },
+  {
+    "query_id": "Q014",
+    "category": "Corporate / Technology / Business",
+    "query": "Corporate communications specialists with experience in internal communications, media relations, corporate messaging, press releases and stakeholder engagement."
+  },
+  {
+    "query_id": "Q015",
+    "category": "Corporate / Technology / Business",
+    "query": "Senior software engineers with experience in Java, Spring Boot, microservices, REST APIs, distributed systems and cloud infrastructure."
+  },
+  {
+    "query_id": "Q016",
+    "category": "Corporate / Technology / Business",
+    "query": "Financial risk managers with experience in credit risk, market risk, stress testing, regulatory reporting and quantitative risk assessment."
+  },
+  {
+    "query_id": "Q017",
+    "category": "Corporate / Technology / Business",
+    "query": "Supply chain managers with experience in demand forecasting, procurement planning, inventory optimisation, logistics coordination and ERP systems."
+  },
+  {
+    "query_id": "Q018",
+    "category": "Corporate / Technology / Business",
+    "query": "Talent acquisition specialists with experience in technical recruitment, candidate sourcing, interviews, employer branding and applicant tracking systems."
+  },
+  {
+    "query_id": "Q019",
+    "category": "Corporate / Technology / Business",
+    "query": "Product managers with experience in product roadmaps, requirements gathering, market research, user stories and cross-functional product development."
+  },
+  {
+    "query_id": "Q020",
+    "category": "Corporate / Technology / Business",
+    "query": "Internal auditors with experience in risk-based auditing, internal control testing, compliance assessments, audit reporting and remediation monitoring."
+  },
+  {
+    "query_id": "Q021",
+    "category": "Corporate / Technology / Business",
+    "query": "Operations managers with experience in business process optimisation, budgeting, resource allocation, team leadership and operational performance indicators."
+  },
+  {
+    "query_id": "Q022",
+    "category": "Corporate / Technology / Business",
+    "query": "Cloud engineers with experience in AWS, Azure, Terraform, Kubernetes, infrastructure automation and cloud networking."
+  },
+  {
+    "query_id": "Q023",
+    "category": "Corporate / Technology / Business",
+    "query": "Payroll and compensation specialists with experience in salary administration, payroll processing, employee benefits, tax withholding and HR information systems."
+  },
+  {
+    "query_id": "Q024",
+    "category": "Corporate / Technology / Business",
+    "query": "Public policy analysts with experience in legislative research, policy evaluation, regulatory impact assessments, stakeholder consultation and public administration."
+  },
+  {
+    "query_id": "Q025",
+    "category": "Corporate / Technology / Business",
+    "query": "Data engineers with experience in Python, SQL, ETL pipelines, Apache Spark, data warehouses and cloud-based data processing."
+  },
+  {
+    "query_id": "Q026",
+    "category": "Corporate / Technology / Business",
+    "query": "Corporate sustainability officers with experience in ESG reporting, greenhouse gas emissions accounting, sustainability strategies and environmental compliance."
+  },
+  {
+    "query_id": "Q027",
+    "category": "Corporate / Technology / Business",
+    "query": "Sales operations analysts with experience in CRM systems, revenue forecasting, sales performance analysis, pipeline reporting and sales process optimisation."
+  },
+  {
+    "query_id": "Q028",
+    "category": "Corporate / Technology / Business",
+    "query": "Enterprise architects with experience in IT architecture governance, system integration, cloud migration, technology roadmaps and enterprise information systems."
+  },
+  {
+    "query_id": "Q029",
+    "category": "Corporate / Technology / Business",
+    "query": "Insurance claims managers with experience in claims investigation, policy interpretation, fraud detection, claims settlement and insurance operations."
+  },
+  {
+    "query_id": "Q030",
+    "category": "Corporate / Technology / Business",
+    "query": "Executive assistants with experience in complex calendar management, executive correspondence, travel coordination, meeting preparation and confidential documentation."
+  },
+  {
+    "query_id": "Q031",
+    "category": "Corporate / Technology / Business",
+    "query": "Research and development managers with experience in innovation planning, technical project coordination, research funding, product development and intellectual property management."
+  },
+  {
+    "query_id": "Q032",
+    "category": "Corporate / Technology / Business",
+    "query": "UX researchers with experience in user interviews, usability testing, qualitative research methods, user journey mapping and product research."
+  },
+  {
+    "query_id": "Q033",
+    "category": "Corporate / Technology / Business",
+    "query": "Junior financial controllers with knowledge of accounting principles, Excel, financial reporting, variance analysis and budget monitoring, with up to 2 years of experience."
+  },
+  {
+    "query_id": "Q034",
+    "category": "Corporate / Technology / Business",
+    "query": "Corporate tax consultants with experience in direct taxation, VAT compliance, tax audits, transfer pricing documentation and corporate tax planning."
+  },
+  {
+    "query_id": "Q035",
+    "category": "Corporate / Technology / Business",
+    "query": "Information security governance officers with experience in ISO 27001, NIS2, security policies, ICT risk assessments and regulatory compliance."
+  },
+  {
+    "query_id": "Q036",
+    "category": "Corporate / Technology / Business",
+    "query": "Investment analysts with experience in company valuation, financial modelling, equity research, portfolio analysis and investment reporting."
+  },
+  {
+    "query_id": "Q037",
+    "category": "Corporate / Technology / Business",
+    "query": "Contract managers with experience in supplier agreements, service-level agreements, contractual risk management, negotiations and contract lifecycle administration."
+  },
+  {
+    "query_id": "Q038",
+    "category": "Corporate / Technology / Business",
+    "query": "Database administrators with experience in PostgreSQL, SQL Server, performance optimisation, backup management, database security and disaster recovery."
+  },
+  {
+    "query_id": "Q039",
+    "category": "Corporate / Technology / Business",
+    "query": "Senior HR business partners with experience in organisational development, employee engagement, workforce planning, change management and HR advisory services."
+  },
+  {
+    "query_id": "Q040",
+    "category": "Corporate / Technology / Business",
+    "query": "Digital transformation consultants with experience in business process redesign, enterprise software implementation, automation and organisational change."
+  },
+  {
+    "query_id": "Q041",
+    "category": "Corporate / Technology / Business",
+    "query": "Corporate training managers with experience in learning needs analysis, employee development programmes, e-learning platforms and training effectiveness evaluation."
+  },
+  {
+    "query_id": "Q042",
+    "category": "Corporate / Technology / Business",
+    "query": "Junior digital marketing assistants with basic knowledge of social media management, SEO, content creation and online campaign reporting, with up to 1 year of experience."
+  },
+  {
+    "query_id": "Q043",
+    "category": "Corporate / Technology / Business",
+    "query": "AI governance specialists with experience in AI risk management, regulatory compliance, model documentation, algorithmic impact assessments and human oversight."
+  },
+  {
+    "query_id": "Q044",
+    "category": "Corporate / Technology / Business",
+    "query": "Commercial banking relationship managers with experience in corporate lending, financial statement analysis, client portfolio management and credit assessment."
+  },
+  {
+    "query_id": "Q045",
+    "category": "Corporate / Technology / Business",
+    "query": "Software quality assurance engineers with experience in automated testing, Selenium, API testing, regression testing and continuous integration pipelines."
+  },
+  {
+    "query_id": "Q046",
+    "category": "Corporate / Technology / Business",
+    "query": "Strategic planning analysts with experience in business strategy, market analysis, competitive intelligence, financial planning and executive reporting."
+  },
+  {
+    "query_id": "Q047",
+    "category": "Corporate / Technology / Business",
+    "query": "Trainee HR assistants seeking practical experience in employee records, interview scheduling, recruitment administration and basic HR operations."
+  },
+  {
+    "query_id": "Q048",
+    "category": "Corporate / Technology / Business",
+    "query": "Corporate event managers with experience in conference planning, corporate hospitality, vendor coordination, event budgeting and stakeholder communication."
+  },
+  {
+    "query_id": "Q049",
+    "category": "Corporate / Technology / Business",
+    "query": "Customer experience analysts with experience in customer satisfaction surveys, service quality analysis, customer journey mapping and CRM reporting."
+  },
+  {
+    "query_id": "Q050",
+    "category": "Corporate / Technology / Business",
+    "query": "Management consultants with experience in organisational strategy, business process improvement, operational analysis, change management and client advisory projects."
+  },
+  {
+    "query_id": "Q051",
+    "category": "Corporate / Technology / Business",
+    "query": "Frontend developers with experience in React, TypeScript, Next.js, responsive interfaces and modern web application development."
+  },
+  {
+    "query_id": "Q052",
+    "category": "Corporate / Technology / Business",
+    "query": "Backend Python developers with experience in FastAPI, Django, PostgreSQL, REST API development and asynchronous programming."
+  },
+  {
+    "query_id": "Q053",
+    "category": "Corporate / Technology / Business",
+    "query": "Machine learning engineers with experience in PyTorch, TensorFlow, model deployment, feature engineering and production ML pipelines."
+  },
+  {
+    "query_id": "Q054",
+    "category": "Corporate / Technology / Business",
+    "query": "DevOps engineers with experience in Docker, Kubernetes, Jenkins, CI/CD pipelines, infrastructure monitoring and Linux administration."
+  },
+  {
+    "query_id": "Q055",
+    "category": "Corporate / Technology / Business",
+    "query": "Natural language processing engineers with experience in Transformer architectures, text classification, information extraction and multilingual NLP applications."
+  },
+  {
+    "query_id": "Q056",
+    "category": "Corporate / Technology / Business",
+    "query": "Data scientists with experience in predictive modelling, statistical analysis, Python, experiment design and machine learning evaluation."
+  },
+  {
+    "query_id": "Q057",
+    "category": "Corporate / Technology / Business",
+    "query": "Mobile application developers with experience in Kotlin, Android development, API integration, application testing and mobile user interfaces."
+  },
+  {
+    "query_id": "Q058",
+    "category": "Corporate / Technology / Business",
+    "query": "Full-stack developers with experience in JavaScript, Node.js, React, relational databases and deployment of web applications."
+  },
+  {
+    "query_id": "Q059",
+    "category": "Corporate / Technology / Business",
+    "query": "Network security engineers with experience in firewalls, VPNs, network segmentation, intrusion detection and secure network architecture."
+  },
+  {
+    "query_id": "Q060",
+    "category": "Corporate / Technology / Business",
+    "query": "IT support specialists with experience in Windows administration, Microsoft 365, hardware troubleshooting, user account management and ticketing systems."
+  },
+  {
+    "query_id": "Q061",
+    "category": "Corporate / Technology / Business",
+    "query": "Technical product owners with experience in Agile development, backlog prioritisation, acceptance criteria, user stories and software delivery coordination."
+  },
+  {
+    "query_id": "Q062",
+    "category": "Corporate / Technology / Business",
+    "query": "ERP consultants with experience in SAP or Microsoft Dynamics 365, business requirements analysis, system configuration and enterprise process integration."
+  },
+  {
+    "query_id": "Q063",
+    "category": "Corporate / Technology / Business",
+    "query": "Cloud security specialists with experience in identity and access management, Azure security, vulnerability management and cloud compliance controls."
+  },
+  {
+    "query_id": "Q064",
+    "category": "Corporate / Technology / Business",
+    "query": "Data analysts with experience in SQL, Python, Excel, statistical reporting and interactive business dashboards."
+  },
+  {
+    "query_id": "Q065",
+    "category": "Corporate / Technology / Business",
+    "query": "UI/UX designers with experience in Figma, wireframing, interactive prototypes, design systems and usability testing."
+  },
+  {
+    "query_id": "Q066",
+    "category": "Corporate / Technology / Business",
+    "query": "E-commerce specialists with experience in online store management, product listings, conversion optimisation, digital payments and customer analytics."
+  },
+  {
+    "query_id": "Q067",
+    "category": "Corporate / Technology / Business",
+    "query": "Technical account managers with experience in enterprise software solutions, customer onboarding, API integrations and technical client support."
+  },
+  {
+    "query_id": "Q068",
+    "category": "Corporate / Technology / Business",
+    "query": "Software architects with experience in microservices, system design, distributed applications, API architecture and scalability planning."
+  },
+  {
+    "query_id": "Q069",
+    "category": "Corporate / Technology / Business",
+    "query": "Blockchain developers with experience in Solidity, smart contracts, Ethereum, decentralised applications and blockchain security."
+  },
+  {
+    "query_id": "Q070",
+    "category": "Corporate / Technology / Business",
+    "query": "Junior cybersecurity engineers with basic knowledge of network security, Linux, vulnerability scanning, security monitoring and incident documentation, with up to 2 years of experience."
+  },
+  {
+    "query_id": "Q071",
+    "category": "Cross-Domain / Entry-Level",
+    "query": "Registered nurses with experience in hospital patient care, medication administration, clinical monitoring, electronic health records and multidisciplinary medical teams."
+  },
+  {
+    "query_id": "Q072",
+    "category": "Cross-Domain / Entry-Level",
+    "query": "Molecular biologists with experience in PCR, DNA sequencing, cell culture techniques, molecular diagnostics and laboratory research."
+  },
+  {
+    "query_id": "Q073",
+    "category": "Cross-Domain / Entry-Level",
+    "query": "Civil engineers with experience in structural calculations, reinforced concrete design, construction project supervision and engineering standards."
+  },
+  {
+    "query_id": "Q074",
+    "category": "Cross-Domain / Entry-Level",
+    "query": "Veterinary surgeons with experience in animal diagnosis, surgical procedures, preventive veterinary medicine and animal welfare management."
+  },
+  {
+    "query_id": "Q075",
+    "category": "Cross-Domain / Entry-Level",
+    "query": "Secondary school mathematics teachers with experience in algebra, geometry, curriculum planning, classroom management and student assessment."
+  },
+  {
+    "query_id": "Q076",
+    "category": "Cross-Domain / Entry-Level",
+    "query": "Agricultural scientists with experience in crop management, soil analysis, irrigation planning, pest management and sustainable agricultural practices."
+  },
+  {
+    "query_id": "Q077",
+    "category": "Cross-Domain / Entry-Level",
+    "query": "Aerospace engineers with experience in aerodynamic simulation, aircraft structures, computational fluid dynamics and aerospace materials."
+  },
+  {
+    "query_id": "Q078",
+    "category": "Cross-Domain / Entry-Level",
+    "query": "Laboratory technicians with experience in specimen preparation, laboratory equipment operation, quality control, safety procedures and experimental documentation."
+  },
+  {
+    "query_id": "Q079",
+    "category": "Cross-Domain / Entry-Level",
+    "query": "Archaeologists with experience in archaeological excavations, artefact classification, historical research, field documentation and cultural heritage preservation."
+  },
+  {
+    "query_id": "Q080",
+    "category": "Cross-Domain / Entry-Level",
+    "query": "Environmental scientists with experience in pollution monitoring, environmental sampling, ecological impact assessments and environmental data analysis."
+  },
+  {
+    "query_id": "Q081",
+    "category": "Cross-Domain / Entry-Level",
+    "query": "Mechanical engineers with experience in CAD design, SolidWorks, mechanical systems, product prototyping and industrial manufacturing processes."
+  },
+  {
+    "query_id": "Q082",
+    "category": "Cross-Domain / Entry-Level",
+    "query": "Clinical psychologists with experience in psychological assessments, psychotherapy, cognitive behavioural therapy and mental health treatment planning."
+  },
+  {
+    "query_id": "Q083",
+    "category": "Cross-Domain / Entry-Level",
+    "query": "Food technologists with experience in food production processes, HACCP standards, product development, microbiological safety and quality assurance."
+  },
+  {
+    "query_id": "Q084",
+    "category": "Cross-Domain / Entry-Level",
+    "query": "Marine biologists with experience in aquatic ecosystem research, marine biodiversity monitoring, field sampling and ecological data collection."
+  },
+  {
+    "query_id": "Q085",
+    "category": "Cross-Domain / Entry-Level",
+    "query": "Electricians with experience in residential electrical installations, wiring, circuit testing, fault diagnosis and electrical safety regulations."
+  },
+  {
+    "query_id": "Q086",
+    "category": "Cross-Domain / Entry-Level",
+    "query": "Physiotherapists with experience in rehabilitation programmes, musculoskeletal assessments, therapeutic exercise and recovery after injury or surgery."
+  },
+  {
+    "query_id": "Q087",
+    "category": "Cross-Domain / Entry-Level",
+    "query": "Professional chefs with experience in commercial kitchen operations, menu planning, food preparation, kitchen hygiene and supervision of culinary staff."
+  },
+  {
+    "query_id": "Q088",
+    "category": "Cross-Domain / Entry-Level",
+    "query": "Construction site supervisors with experience in building projects, subcontractor coordination, construction schedules, site inspections and occupational safety."
+  },
+  {
+    "query_id": "Q089",
+    "category": "Cross-Domain / Entry-Level",
+    "query": "Professional translators with experience in legal translation, technical terminology, CAT tools, multilingual editing and translation quality assurance."
+  },
+  {
+    "query_id": "Q090",
+    "category": "Cross-Domain / Entry-Level",
+    "query": "Automotive mechanics with experience in vehicle diagnostics, engine repairs, braking systems, routine servicing and workshop safety procedures."
+  },
+  {
+    "query_id": "Q091",
+    "category": "Cross-Domain / Entry-Level",
+    "query": "Entry-level warehouse assistants for order picking, stock arrangement, packaging and loading activities, with no previous work experience or university degree required."
+  },
+  {
+    "query_id": "Q092",
+    "category": "Cross-Domain / Entry-Level",
+    "query": "Entry-level cleaning staff for offices and public buildings, with no previous experience or formal educational qualifications required and willingness to follow hygiene procedures."
+  },
+  {
+    "query_id": "Q093",
+    "category": "Cross-Domain / Entry-Level",
+    "query": "Entry-level agricultural workers for crop harvesting, produce sorting and basic farm maintenance, with no previous experience or university degree required."
+  },
+  {
+    "query_id": "Q094",
+    "category": "Cross-Domain / Entry-Level",
+    "query": "Trainee veterinary assistants seeking supervised practical experience in animal handling, veterinary clinic preparation, basic administrative duties and animal care support."
+  },
+  {
+    "query_id": "Q095",
+    "category": "Cross-Domain / Entry-Level",
+    "query": "Trainee laboratory assistants seeking supervised practical experience in sample preparation, laboratory documentation, chemical handling and basic testing procedures."
+  },
+  {
+    "query_id": "Q096",
+    "category": "Cross-Domain / Entry-Level",
+    "query": "Junior environmental research assistants with up to 2 years of experience in ecological fieldwork, sample collection, environmental data recording and basic statistical analysis."
+  },
+  {
+    "query_id": "Q097",
+    "category": "Cross-Domain / Entry-Level",
+    "query": "Firefighters with training in emergency response, fire suppression, rescue procedures, hazardous incident management and physical safety protocols."
+  },
+  {
+    "query_id": "Q098",
+    "category": "Cross-Domain / Entry-Level",
+    "query": "Special education teachers with experience in inclusive education, individualised learning plans, learning difficulties and assistive teaching techniques."
+  },
+  {
+    "query_id": "Q099",
+    "category": "Cross-Domain / Entry-Level",
+    "query": "Skilled carpenters with experience in furniture construction, woodworking machinery, technical measurements, installation and workshop safety."
+  },
+  {
+    "query_id": "Q100",
+    "category": "Cross-Domain / Entry-Level",
+    "query": "Astronomers with experience in observational astronomy, telescope instrumentation, astrophysical data analysis and computational modelling of celestial objects."
+  }
+]

@@ -1,0 +1,101 @@
+﻿query_id,category,unique_candidates,appearing_in_all_four
+Q001,Corporate / Technology / Business,61,1
+Q002,Corporate / Technology / Business,51,2
+Q003,Corporate / Technology / Business,36,8
+Q004,Corporate / Technology / Business,55,2
+Q005,Corporate / Technology / Business,64,2
+Q006,Corporate / Technology / Business,62,1
+Q007,Corporate / Technology / Business,51,1
+Q008,Corporate / Technology / Business,48,5
+Q009,Corporate / Technology / Business,42,4
+Q010,Corporate / Technology / Business,49,4
+Q011,Corporate / Technology / Business,56,2
+Q012,Corporate / Technology / Business,52,2
+Q013,Corporate / Technology / Business,37,6
+Q014,Corporate / Technology / Business,48,3
+Q015,Corporate / Technology / Business,56,0
+Q016,Corporate / Technology / Business,53,2
+Q017,Corporate / Technology / Business,64,1
+Q018,Corporate / Technology / Business,56,3
+Q019,Corporate / Technology / Business,62,0
+Q020,Corporate / Technology / Business,58,0
+Q021,Corporate / Technology / Business,55,1
+Q022,Corporate / Technology / Business,48,4
+Q023,Corporate / Technology / Business,45,5
+Q024,Corporate / Technology / Business,64,0
+Q025,Corporate / Technology / Business,42,4
+Q026,Corporate / Technology / Business,71,0
+Q027,Corporate / Technology / Business,69,0
+Q028,Corporate / Technology / Business,50,2
+Q029,Corporate / Technology / Business,61,1
+Q030,Corporate / Technology / Business,56,1
+Q031,Corporate / Technology / Business,70,0
+Q032,Corporate / Technology / Business,54,0
+Q033,Corporate / Technology / Business,60,0
+Q034,Corporate / Technology / Business,63,0
+Q035,Corporate / Technology / Business,35,10
+Q036,Corporate / Technology / Business,57,2
+Q037,Corporate / Technology / Business,55,1
+Q038,Corporate / Technology / Business,56,1
+Q039,Corporate / Technology / Business,52,0
+Q040,Corporate / Technology / Business,57,2
+Q041,Corporate / Technology / Business,68,0
+Q042,Corporate / Technology / Business,61,0
+Q043,Corporate / Technology / Business,56,1
+Q044,Corporate / Technology / Business,63,0
+Q045,Corporate / Technology / Business,63,0
+Q046,Corporate / Technology / Business,66,1
+Q047,Corporate / Technology / Business,51,2
+Q048,Corporate / Technology / Business,54,0
+Q049,Corporate / Technology / Business,68,0
+Q050,Corporate / Technology / Business,67,0
+Q051,Corporate / Technology / Business,64,0
+Q052,Corporate / Technology / Business,45,3
+Q053,Corporate / Technology / Business,55,2
+Q054,Corporate / Technology / Business,45,5
+Q055,Corporate / Technology / Business,53,4
+Q056,Corporate / Technology / Business,63,1
+Q057,Corporate / Technology / Business,65,0
+Q058,Corporate / Technology / Business,58,0
+Q059,Corporate / Technology / Business,58,0
+Q060,Corporate / Technology / Business,56,2
+Q061,Corporate / Technology / Business,64,1
+Q062,Corporate / Technology / Business,52,1
+Q063,Corporate / Technology / Business,49,4
+Q064,Corporate / Technology / Business,58,1
+Q065,Corporate / Technology / Business,45,3
+Q066,Corporate / Technology / Business,69,1
+Q067,Corporate / Technology / Business,65,0
+Q068,Corporate / Technology / Business,60,1
+Q069,Corporate / Technology / Business,50,3
+Q070,Corporate / Technology / Business,55,0
+Q071,Cross-Domain / Entry-Level,62,0
+Q072,Cross-Domain / Entry-Level,69,1
+Q073,Cross-Domain / Entry-Level,63,1
+Q074,Cross-Domain / Entry-Level,68,2
+Q075,Cross-Domain / Entry-Level,57,1
+Q076,Cross-Domain / Entry-Level,57,2
+Q077,Cross-Domain / Entry-Level,64,0
+Q078,Cross-Domain / Entry-Level,72,0
+Q079,Cross-Domain / Entry-Level,73,0
+Q080,Cross-Domain / Entry-Level,76,0
+Q081,Cross-Domain / Entry-Level,57,1
+Q082,Cross-Domain / Entry-Level,63,1
+Q083,Cross-Domain / Entry-Level,75,0
+Q084,Cross-Domain / Entry-Level,72,0
+Q085,Cross-Domain / Entry-Level,73,0
+Q086,Cross-Domain / Entry-Level,73,0
+Q087,Cross-Domain / Entry-Level,70,0
+Q088,Cross-Domain / Entry-Level,68,0
+Q089,Cross-Domain / Entry-Level,53,0
+Q090,Cross-Domain / Entry-Level,71,0
+Q091,Cross-Domain / Entry-Level,72,0
+Q092,Cross-Domain / Entry-Level,70,0
+Q093,Cross-Domain / Entry-Level,68,0
+Q094,Cross-Domain / Entry-Level,73,0
+Q095,Cross-Domain / Entry-Level,73,0
+Q096,Cross-Domain / Entry-Level,64,0
+Q097,Cross-Domain / Entry-Level,65,0
+Q098,Cross-Domain / Entry-Level,65,0
+Q099,Cross-Domain / Entry-Level,70,0
+Q100,Cross-Domain / Entry-Level,66,1
